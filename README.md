@@ -1,1 +1,1 @@
-# Little-Lemon-Restaurant-web
+# Coursera-Little-lemon-restaurant
